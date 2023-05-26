@@ -1,3 +1,3 @@
 #Curso Digital: Git/versionamento
 ##Gravando mudanças no meu repositorio
-##Corrigindo
+# comando git push
